@@ -1,2 +1,2 @@
 # PruebaFuncionamiento
-Repositorio para probar las funciones básicas de Git
+Repositorio para probar las funciones básicas de Github
